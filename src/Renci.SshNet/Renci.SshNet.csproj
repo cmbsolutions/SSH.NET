@@ -23,6 +23,9 @@
     <NBGV_ThisAssemblyIncludesPackageVersion>true</NBGV_ThisAssemblyIncludesPackageVersion>
     <EmbedUntrackedSources>true</EmbedUntrackedSources>
     <PublishRepositoryUrl>true</PublishRepositoryUrl>
+    <Version>2023.0.0</Version>
+    <AssemblyVersion>2023.0.0</AssemblyVersion>
+    <FileVersion>2023.0.0</FileVersion>
   </PropertyGroup>
 
   <Target Name="SetVersionProperties" BeforeTargets="Build" DependsOnTargets="GetBuildVersion">
