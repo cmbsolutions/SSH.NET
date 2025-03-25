@@ -1,0 +1,15 @@
+﻿# this file contains the partial list of the merged assemblies in the merge order
+# you can fill it from the obj\CONFIG\PROJECT.ilmerge generated on every build
+# and finetune merge order to your satisfaction
+Renci.SshNet.dll
+BouncyCastle.Cryptography.dll
+Microsoft.Bcl.AsyncInterfaces.dll
+Microsoft.Extensions.DependencyInjection.Abstractions.dll
+Microsoft.Extensions.Logging.Abstractions.dll
+System.Buffers.dll
+System.Diagnostics.DiagnosticSource.dll
+System.Memory.dll
+System.Numerics.Vectors.dll
+System.Runtime.CompilerServices.Unsafe.dll
+System.Threading.Tasks.Extensions.dll
+System.ValueTuple.dll
